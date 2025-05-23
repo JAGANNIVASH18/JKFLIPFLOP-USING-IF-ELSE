@@ -39,6 +39,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **PROGRAM**
  Developed by: JAGANNIVASH UM   RegisterNumber: 212224240059
 
+```VHDL
 module Ex7(j, k, clk, rst, q, qbar);
     input j;
     input k;
@@ -76,6 +77,7 @@ module Ex7(j, k, clk, rst, q, qbar);
      end
      end    
      endmodule
+```
 
      
 **RTL LOGIC FOR FLIPFLOPS**
